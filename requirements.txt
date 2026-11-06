@@ -1,0 +1,5 @@
+# MediaPipe 0.10.21 tem wheel oficial para Windows x64 e Python 3.10.
+mediapipe==0.10.21
+numpy<2
+PyAutoGUI==0.9.54
+pyttsx3==2.98
